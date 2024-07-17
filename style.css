@@ -2,3 +2,28 @@ html {
   height: 100%;
   width: 100%;
 }
+
+p{
+
+  color:  #b51a00;
+}
+
+.navbar{
+  background: #aa7942;
+}
+
+.skills{
+  background: #aa7942;
+}
+
+.contact{
+  background-color: #aa7942;
+} 
+
+.contact:hover{
+  background-color: #aa7942;
+}
+
+body{
+margin: 0px;
+}
